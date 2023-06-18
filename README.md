@@ -6,6 +6,7 @@ This is a solution to the [Entertainment web app challenge on Frontend Mentor](h
 * Search functionality
 * Pagination
 * Categories
+* Mobile Responsive
 
 ## Built with
 * Next js 12
